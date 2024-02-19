@@ -4,4 +4,5 @@ console.log("Hello World") //2d tile
 
 function main(){
   return null;}
-
+main()
+//console.log(main)
